@@ -1,0 +1,6 @@
+[Jadwal kuliahku]
+[Jadwal harianku]
+
+aku suka riset dan main game
+https://medium.com/code-factory-berlin/github-repository-structure-best-practices-248e6effc405
+https://github.com/actions/starter-workflows

@@ -34,13 +34,6 @@ git commit --amend -m "commit message"
 git merge branch_name
 git merge --abort
 
-### REBASE
-
-git rebase branch_name  
-git rebase -i HEAD~3  
-git rebase --continue  
-git rebase --abort
-
 ### STASH
 
 git stash  
@@ -83,3 +76,10 @@ git push origin --force
 git fetch  
 git fetch origin  
 git fetch --all
+
+### REBASE
+
+git rebase branch_name  
+git rebase -i HEAD~3  
+git rebase --continue  
+git rebase --abort
